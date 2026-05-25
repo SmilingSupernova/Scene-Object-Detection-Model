@@ -8,7 +8,7 @@ Starting with a pretrained [YOLO11N](https://docs.ultralytics.com/models/yolo11)
 
 Each model was trained for 15 epochs.<br>
 
-You can find more infomation on our [final report](https://github.com/SmilingSupernova/Scene-Object-Detection-Model/blob/main/Final%20Report.pdf)
+You can find more infomation on our [final report](https://github.com/SmilingSupernova/Scene-Object-Detection-Model/blob/main/Final%20Report.pdf).
 ### Installation and Setup
 We utilized the following imports:
 ```python
